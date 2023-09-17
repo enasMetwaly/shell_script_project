@@ -1,0 +1,3 @@
+Field|Type|key
+subject|str|PK
+grade|int|
